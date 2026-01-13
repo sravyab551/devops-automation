@@ -43,6 +43,7 @@
 	</dependencies>
 
 	<build>
+	<finalName>devops-automation</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
